@@ -1,0 +1,19 @@
+# 大文件 / 模型权重（说明：yolov8n.pt 保留在仓库，因仅 6MB 且保证复现）
+*.pt.bak
+*.task
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+egovis/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 中间产物（如需保留请手动移除本行）
+*.log
+jupyterlab/

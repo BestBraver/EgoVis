@@ -1,0 +1,15 @@
+# EgoVis 依赖
+# 本地阶段（4GB 显存即可）
+torch>=2.0
+torchvision
+opencv-python
+numpy
+pandas
+tqdm
+ultralytics          # YOLOv8n 检测
+
+# L40 阶段（≥20GB 显存）— 单独安装，见 README
+# transformers==4.51.3   # 必须固定：新版要求 torch>=2.6
+# qwen-vl-utils
+# accelerate
+# modelscope

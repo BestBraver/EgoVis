@@ -1,0 +1,30 @@
+{"frame": "f_0000.jpg", "caption": "无", "sim_prev": null}
+{"frame": "f_0001.jpg", "caption": "无", "sim_prev": 1.0}
+{"frame": "f_0002.jpg", "caption": "无", "sim_prev": 1.0}
+{"frame": "f_0003.jpg", "caption": "无", "sim_prev": 1.0}
+{"frame": "f_0004.jpg", "caption": "拿起杯子", "sim_prev": 0.28, "boundary": true}
+{"frame": "f_0005.jpg", "caption": "把水倒入杯中", "sim_prev": 0.2, "boundary": true}
+{"frame": "f_0006.jpg", "caption": "把水倒入杯中", "sim_prev": 1.0}
+{"frame": "f_0007.jpg", "caption": "把水倒入杯中", "sim_prev": 1.0}
+{"frame": "f_0008.jpg", "caption": "把水倒入杯中", "sim_prev": 1.0}
+{"frame": "f_0009.jpg", "caption": "放下杯子", "sim_prev": 0.28, "boundary": true}
+{"frame": "f_0010.jpg", "caption": "拿起瓶子", "sim_prev": 0.75}
+{"frame": "f_0011.jpg", "caption": "把水倒入杯中", "sim_prev": 0.8}
+{"frame": "f_0012.jpg", "caption": "把水倒入杯中", "sim_prev": 1.0}
+{"frame": "f_0013.jpg", "caption": "把水倒入杯中", "sim_prev": 1.0}
+{"frame": "f_0014.jpg", "caption": "搅拌杯中的水", "sim_prev": 0.28, "boundary": true}
+{"frame": "f_0015.jpg", "caption": "搅拌杯中的水", "sim_prev": 1.0}
+{"frame": "f_0016.jpg", "caption": "搅拌杯中的水", "sim_prev": 1.0}
+{"frame": "f_0017.jpg", "caption": "放下瓶子", "sim_prev": 0.8}
+{"frame": "f_0018.jpg", "caption": "拿起杯子", "sim_prev": 0.26, "boundary": true}
+{"frame": "f_0019.jpg", "caption": "喝了一口水", "sim_prev": 0.6}
+{"frame": "f_0020.jpg", "caption": "喝了一口水", "sim_prev": 1.0}
+{"frame": "f_0021.jpg", "caption": "放下杯子", "sim_prev": 0.7}
+{"frame": "f_0022.jpg", "caption": "无", "sim_prev": 0.75}
+{"frame": "f_0023.jpg", "caption": "无", "sim_prev": 1.0}
+{"frame": "f_0024.jpg", "caption": "无", "sim_prev": 1.0}
+{"frame": "f_0025.jpg", "caption": "拿起杯子", "sim_prev": 0.2, "boundary": true}
+{"frame": "f_0026.jpg", "caption": "把水倒入杯中", "sim_prev": 0.22, "boundary": true}
+{"frame": "f_0027.jpg", "caption": "把水倒入杯中", "sim_prev": 1.0}
+{"frame": "f_0028.jpg", "caption": "放下杯子", "sim_prev": 0.75}
+{"frame": "f_0029.jpg", "caption": "无", "sim_prev": 0.8}
